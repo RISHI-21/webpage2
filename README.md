@@ -1,6 +1,5 @@
-# webpage2
-website mark2
 <html>
+  <h1 style="color:crimson";><strong><b><i>IMAGE UPLOADED SUCCESFULLY</i></b></strong></h1>
   <body>
     <style>
       body {
